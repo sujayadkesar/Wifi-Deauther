@@ -21,8 +21,7 @@ WiFi Deauther in a nutshell can kick devices off a network irrespective of wheth
 
 
 ## Demo!
-![Watch the video](https://user-images.githubusercontent.com/95465072/209769263-56b09037-1aa1-42ae-b43e-d18ee0099b80.mp4)
-
-
+<!-- ![Watch the video](https://user-images.githubusercontent.com/95465072/209769263-56b09037-1aa1-42ae-b43e-d18ee0099b80.mp4) -->
+<video src='https://user-images.githubusercontent.com/95465072/209769263-56b09037-1aa1-42ae-b43e-d18ee0099b80.mp4' width=180/>
 
 
